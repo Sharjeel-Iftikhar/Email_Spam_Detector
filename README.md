@@ -5,7 +5,7 @@ We all have faced spam emails before. Spam mail, or junk mail, is a type of emai
 # smart-contract-exercises
 Coding practices in blockchain technology. 
 
-This repository is also participating in the **HacktoberFest**. If you want to contribute to it, make sure to learn about [contribution guidelines](https://github.com/Umair-Manzoor-47/smart-contract-exercises/blob/main/Contributing.md), then submit a pull request and wait for its approval.
+This repository is also participating in the **HacktoberFest**. If you want to contribute to it, make sure to learn about [contribution guidelines](https://github.com/Sharjeel-Iftikhar/Email_Spam_Detector/blob/main/Contributing.md), then submit a pull request and wait for its approval.
 
 
 > **Note:** Spammy PRs will not be approved. Similarly, submitting a PR doesn't guarantee it's approval.
